@@ -3,7 +3,7 @@ Ejercicio-Fundamentos de Data Science.
 """
 
 estudiantes = [
-    {"nombre": "Ana", "notas": [6.5, 5.5, 7.0]},
+    {"nombre": "Ana", "notas": [5.5, 5.5, 7.0]},
     {"nombre": "Luis", "notas": [4.1, 5.1, 6.0]},
     {"nombre": "Sofia", "notas": [4.0, 2.9, 4.5]},
 ]
