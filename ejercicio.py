@@ -6,6 +6,13 @@ estudiantes = [
     {"nombre": "Ana", "notas": [6.5, 5.5, 7.0]},
     {"nombre": "Luis", "notas": [4.1, 5.1, 6.0]},
     {"nombre": "Sofia", "notas": [4.0, 2.9, 4.5]},
+    {"nombre": "Carlos", "notas": [5.5, 6.2, 5.8]},
+    {"nombre": "María", "notas": [6.0, 6.5, 7.0]},
+    {"nombre": "José", "notas": [3.5, 4.0, 4.8]},
+    {"nombre": "Lucía", "notas": [5.0, 5.5, 6.0]},
+    {"nombre": "Pedro", "notas": [4.5, 5.0, 4.8]},
+    {"nombre": "Valentina", "notas": [6.8, 7.0, 6.5]},
+    {"nombre": "Miguel", "notas": [3.8, 4.2, 5.0]},
 ]
 
 # 1. Calcular el promedio de notas de cada estudiante
